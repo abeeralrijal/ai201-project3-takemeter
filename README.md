@@ -4,7 +4,7 @@ A four-way classifier for r/soccer comments. It labels a comment by **what kind 
 
 ## Demo video
 
-**[▶ Watch the 4-minute demo](PASTE_YOUR_VIDEO_URL_HERE)**
+**[▶ Watch the demo](https://drive.google.com/file/d/1rf8lB0ulQccYxWxdzsWUeNNhYw_y3Qxe/view?usp=sharing)**
 
 <!-- Replace PASTE_YOUR_VIDEO_URL_HERE with the real link once uploaded. -->
 
